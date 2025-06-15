@@ -28,7 +28,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, Tailwind CSS  
+- **Frontend**: React.js, CSS  
 - **Backend**: Node.js (Express) or Flask (Python)  
 - **Database**: MongoDB / PostgreSQL  
 - **AI Engine**: OpenAI API / HuggingFace Transformers  
